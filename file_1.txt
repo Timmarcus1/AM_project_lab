@@ -3,3 +3,6 @@ test1
 test2
 test3
 test5
+GoodTest1
+GoodTest2
+GoodTest3
